@@ -39,3 +39,17 @@ body{
     color: hsl(0, 0%, 80%);
     margin-top: 1.5rem;
 }
+.social-links, .social-links ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.social-links a{
+    text-decoration: none;
+    padding: 1rem;
+    background-color: hsl(0, 0%, 20%) ;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    color:  hsl(0, 0%, 100%);
+    font-weight: 600;
+}
