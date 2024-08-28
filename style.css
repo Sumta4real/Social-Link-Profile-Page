@@ -12,3 +12,11 @@ body{
     align-items: center;
     justify-content: center;
 }
+.profile-container{
+    background-color: hsl(0, 0%, 12%);
+    width: 100%;
+    max-width: 24rem;
+    padding: 1.5rem ;
+    border-radius: 1rem;
+    text-align: center;
+}
