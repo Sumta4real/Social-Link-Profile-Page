@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Sumta4real/Social-Link-Profile-Page)
-- Live Site URL: (https://blog-preview-card-ashen.vercel.app/)
+- Live Site URL: (https://social-link-profile-page-six.vercel.app/)
 
 ### Built with
 
