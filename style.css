@@ -4,3 +4,11 @@
     font-style: normal;
     box-sizing: border-box;
 }
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-size: 0.875rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
