@@ -25,3 +25,9 @@ body{
     width: 4.5rem;
     height: 4.5rem;
 }
+.profile-owner #name{
+    color:  hsl(0, 0%, 100%);
+    font-weight: 700;
+    margin-bottom: 0;
+    font-size: 0.875rem;
+}
