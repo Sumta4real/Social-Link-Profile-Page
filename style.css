@@ -30,3 +30,8 @@ body{
     font-weight: 400;
     margin-bottom: 0;
 }
+.profile-container #location{
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+    margin-top: 0.7rem;
+}
